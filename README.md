@@ -301,4 +301,4 @@ Export reports to CSV or PDF.
 Add attendance management.
 Add course timetable management.
 Generate more advanced performance charts.
-Improve data validation and input sanitization.
+
